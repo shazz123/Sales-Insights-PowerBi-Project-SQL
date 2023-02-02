@@ -1,4 +1,4 @@
-# SQL_Project-Consumer_Goods_Domain
+# SQL_Project-Sales_Insights
 This is a Data Analytics project I have done primarily using SQL (for querying) and Power BI (visualize and gain Insights). 
 
 
